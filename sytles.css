@@ -1,0 +1,32 @@
+#pixelContainer{
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;}
+
+.pix {
+     height: 30.5px; 
+    width: 30.5px;
+    border: 1px solid black;
+    box-sizing: border-box;
+     }
+
+.pix2 {
+    height: 15.4px; 
+    width: 15.4px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.pix3 {
+    height: 7.7px; 
+    width: 7.8px;
+    border: .01px solid black;
+    box-sizing: border-box;
+}
+
+.pix4 {
+    height: 4px; 
+    width: 4px;
+    border: .0001px solid black;
+    box-sizing: border-box;
+}
